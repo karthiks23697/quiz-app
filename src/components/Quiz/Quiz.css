@@ -1,0 +1,18 @@
+.textalign-left{
+    text-align: left;
+}
+.quiz-btn{
+    width: 100px;
+    background: #fff;
+    border: 1px solid;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+input[type="radio"] {
+    margin-right: 10px;
+}
+.timer{
+    color:#670000;
+}

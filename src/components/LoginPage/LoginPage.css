@@ -1,0 +1,36 @@
+.login-card {
+    padding: 40px 20px;
+    background: beige;
+    width: 400px;
+    margin-top: 100px;
+}
+.login-card .form-group {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    text-align: left;
+}
+.login-card .form-group label{
+    width: 150px;
+}
+.login-card button{
+    width: 100px;
+    background: aqua;
+    border: 1px solid;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.login-container{
+    display: inline-flex;
+}
+.login-container .options .form-check {
+    margin-bottom: 5px;
+}
+.login-card .form-group input {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 3px;
+}
